@@ -15,13 +15,13 @@ body {
   align-items: center;
   /* horizontal axis */
   justify-content: center;
-  background: #c9ced3;
+  background: #298f33;
 }
 
 .container {
   width: 480px;
   height: 630px;
-  background: white;
+  background: rgb(207, 189, 107);
   display: flex;
   /* initallized top to bottom(when you give flex, by default is going from left to right */
   flex-direction: column;
